@@ -1,0 +1,13 @@
+{
+  "omnisharp.enableEditorConfigSupport": true,
+  "omnisharp.enableRoslynAnalyzers": true,
+  "omnisharp.path": "latest",
+  "omnisharp.useGlobalMono": "auto",
+  "omnisharp.analyzeOpenDocumentsOnly": false,
+  "editor.formatOnSave": true,
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp",
+    "editor.formatOnSave": true
+  },
+  "dotnet.defaultSolutionOrFolder": "Back/src"
+}
